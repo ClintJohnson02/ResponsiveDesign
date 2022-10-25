@@ -1,2 +1,2 @@
-# Kirsten Marklye
+# Clinton Johnson
 ## Responsive Design Lesson Starter Files
